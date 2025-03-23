@@ -1,6 +1,8 @@
 ## AI Query Script
 
 This Python script allows users to interact with a local AI model (LLaMA 3.1:8B) via an API running on `http://127.0.0.1:11434/api/generate`. The script takes user input, sends it to the API, and streams the response in real-time.
+1, First donwload ollama for running model local
+2, Second download model using this cmd :ollama run model name example :ollama run llama3.1:8b
 
 ---
 
